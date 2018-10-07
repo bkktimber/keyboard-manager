@@ -1,0 +1,8 @@
+# folders
+data
+doc
+img
+.ipynb_checkpoints
+
+# files
+*.pdf
