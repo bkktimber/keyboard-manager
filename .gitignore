@@ -7,3 +7,4 @@ img
 # files
 *.pdf
 .DS_Store
+*.csv
